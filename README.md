@@ -1,5 +1,3 @@
-#AdventureWorks Power BI Report
-
 This repository hosts the Power BI report for AdventureWorks, designed to analyze sales, revenue, and customer trends across product categories and demographics. 
 The report offers actionable insights to help optimize performance and align with business goals.
 
